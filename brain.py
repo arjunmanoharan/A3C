@@ -1,5 +1,4 @@
 import tensorflow as tf
-from environment import Environment
 import numpy as np
 import threading
 from collections import deque
