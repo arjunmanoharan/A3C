@@ -3,7 +3,6 @@ import numpy as np
 from agent1 import Worker
 import threading 
 from brain import Master
-from network import NetworkGenerator
 import time
 class control:
 
